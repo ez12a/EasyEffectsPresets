@@ -1,0 +1,2 @@
+# EasyEffectsPresets
+Presets for EasyEffects
